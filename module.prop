@@ -1,0 +1,6 @@
+id=MagiskBetterDNS
+name=MagiskBetterDNS
+version=v2.8
+versionCode=28
+author=emaballarin
+description=Use a combined Cloudflare/Google DNS system-wide!
